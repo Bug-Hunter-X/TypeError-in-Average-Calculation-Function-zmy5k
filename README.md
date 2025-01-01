@@ -1,0 +1,1 @@
+This repository contains a Python code example demonstrating a common error: TypeError in average calculation. The bug.py file shows the code with the error, and bugSolution.py provides a corrected version.  The original code fails when non-numeric data is present. The solution implements robust error handling using a try-except block to prevent such errors.
